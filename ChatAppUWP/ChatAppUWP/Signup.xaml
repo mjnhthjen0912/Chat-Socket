@@ -1,0 +1,37 @@
+﻿<UserControl
+    x:Class="ChatAppUWP.Signup"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ChatAppUWP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+
+    <Grid Width="400">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="70"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Button Name="btnSignIn" HorizontalAlignment="Center" VerticalAlignment="Center" Width="350" Height="40" Content="Sign In" Foreground="White" Click="btnSignIn_Click"/>
+        <Grid Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Width="350">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="40"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Border VerticalAlignment="Center" Height="1" Background="White" />
+            <TextBlock Grid.Column="1" Text="OR" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" FontSize="12" FontWeight="Light"/>
+            <Border Grid.Column="2" VerticalAlignment="Center" Height="1" Background="White"/>
+        </Grid>
+        <TextBox Name="txtAccount" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width="350" Height="42" Margin="0,0,0,2" PlaceholderText="Account" Foreground="White" Padding="10,10,6,5" MaxLength="20" TextChanged="txtAccount_TextChanged"/>
+        <Ellipse Name="checkAcount" Grid.Row="2" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="15" Height="15" Margin="0,0,0,16" Fill="#B2F04100" />
+        <Ellipse Name="checkPassword" Grid.Row="3" HorizontalAlignment="Right" VerticalAlignment="Top" Width="15" Height="15" Margin="0,15,0,0" Fill="#B2F04100" />
+        <PasswordBox Name="txtPassword" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Top" Width="350" Height="42" Margin="0,2,0,0" PlaceholderText="Password" Padding="10,10,6,5" MaxLength="50" PasswordChanged="txtPassword_PasswordChanged" Foreground="White"/>
+        <Button Name="btnSignUp" Grid.Row="4" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width="350" Height="40" Content="Sign Up" Foreground="White" Click="btnSignUp_Click" IsEnabled="False"/>
+    </Grid>
+</UserControl>

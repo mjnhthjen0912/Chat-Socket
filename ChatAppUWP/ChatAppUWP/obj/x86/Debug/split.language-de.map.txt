@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-de"
+"ResourceDimensions"		"language-de-de"
+
+[Files]
+"C:\Users\mjnht\onedrive\documents\visual studio 2017\Projects\ChatAppUWP\ChatAppUWP\obj\x86\Debug\split.language-de.pri"			"resources.pri"

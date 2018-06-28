@@ -1,0 +1,1 @@
+C:\Users\mjnht\onedrive\documents\visual studio 2017\Projects\ChatAppUWP\ChatAppUWP\ChatAppUWP.csproj;arm

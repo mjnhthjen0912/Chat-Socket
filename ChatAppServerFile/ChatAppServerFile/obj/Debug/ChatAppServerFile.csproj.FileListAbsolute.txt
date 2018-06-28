@@ -1,0 +1,14 @@
+c:\users\mjnht\onedrive\documents\visual studio 2017\Projects\ChatAppServerFile\ChatAppServerFile\bin\Debug\ChatAppServerFile.exe.config
+c:\users\mjnht\onedrive\documents\visual studio 2017\Projects\ChatAppServerFile\ChatAppServerFile\bin\Debug\ChatAppServerFile.exe
+c:\users\mjnht\onedrive\documents\visual studio 2017\Projects\ChatAppServerFile\ChatAppServerFile\bin\Debug\ChatAppServerFile.pdb
+c:\users\mjnht\onedrive\documents\visual studio 2017\Projects\ChatAppServerFile\ChatAppServerFile\obj\Debug\ChatAppServerFile.csprojResolveAssemblyReference.cache
+c:\users\mjnht\onedrive\documents\visual studio 2017\Projects\ChatAppServerFile\ChatAppServerFile\obj\Debug\MainWindow.g.cs
+c:\users\mjnht\onedrive\documents\visual studio 2017\Projects\ChatAppServerFile\ChatAppServerFile\obj\Debug\App.g.cs
+c:\users\mjnht\onedrive\documents\visual studio 2017\Projects\ChatAppServerFile\ChatAppServerFile\obj\Debug\ChatAppServerFile_MarkupCompile.cache
+c:\users\mjnht\onedrive\documents\visual studio 2017\Projects\ChatAppServerFile\ChatAppServerFile\obj\Debug\ChatAppServerFile_MarkupCompile.lref
+c:\users\mjnht\onedrive\documents\visual studio 2017\Projects\ChatAppServerFile\ChatAppServerFile\obj\Debug\MainWindow.baml
+c:\users\mjnht\onedrive\documents\visual studio 2017\Projects\ChatAppServerFile\ChatAppServerFile\obj\Debug\ChatAppServerFile.g.resources
+c:\users\mjnht\onedrive\documents\visual studio 2017\Projects\ChatAppServerFile\ChatAppServerFile\obj\Debug\ChatAppServerFile.Properties.Resources.resources
+c:\users\mjnht\onedrive\documents\visual studio 2017\Projects\ChatAppServerFile\ChatAppServerFile\obj\Debug\ChatAppServerFile.csproj.GenerateResource.Cache
+c:\users\mjnht\onedrive\documents\visual studio 2017\Projects\ChatAppServerFile\ChatAppServerFile\obj\Debug\ChatAppServerFile.exe
+c:\users\mjnht\onedrive\documents\visual studio 2017\Projects\ChatAppServerFile\ChatAppServerFile\obj\Debug\ChatAppServerFile.pdb
